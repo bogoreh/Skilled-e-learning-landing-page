@@ -36,9 +36,3 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-## Author
-
-- Website - [Treasure Kabareebe](https://trekab.io/)
-- Frontend Mentor - [@trekab](https://www.frontendmentor.io/profile/trekab)
-- LinkedIn - [Treasure Kabareebe](https://www.linkedin.com/in/treasure-kabareebe/)
