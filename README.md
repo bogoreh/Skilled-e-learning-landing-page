@@ -10,7 +10,6 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
